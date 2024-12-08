@@ -12,7 +12,7 @@ some tools I love & use:
 - [kde plasma](https://kde.org/plasma-desktop/) as a desktop environment.
 - [NeoVim](https://neovim.io/) as the text editor and IDE.
  
- ## Projects
+## Projects
 - **learn asap** : a website built as a collage course project, built in pure PHP and bootstrap, with MariaDB on a Linux host (LAMP stack).
 - **logic gates** : built the baisec logic gates using sky water pdk in maigc and simulated with spice.
 - **IoT lights**: smart light built with esp8266.
