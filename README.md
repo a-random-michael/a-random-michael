@@ -13,7 +13,7 @@ some tools I love & use:
  
  ## Projects
 - **learn asap** : a website built as a collage course project, built in pure PHP and bootstrap, with MariaDB on a Linux host (LAMP stack).
-- **logic gate**s : built the baisec logic gates using sky water pdk in maigc and simulated with spice.
-- **IoT lights **: smart light built with esp8266.
+- **logic gates** : built the baisec logic gates using sky water pdk in maigc and simulated with spice.
+- **IoT lights**: smart light built with esp8266.
 - **RISC-V core** : built a simple RISC-V core using TL-verilog on MakerChip platform.
 - **RISC-V SoC** : using pre-built component, generated a RISC-V SoC in chipyard using chisel language (scala).
