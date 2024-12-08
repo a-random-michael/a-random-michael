@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Michael, a computers and electronics enthusiast, with experiences ranging from hardware design to web development, electronics and Arduino. 
  _Bachelor’s degree in Information And Communication Technology Engineering, (Computer and Electronic System engineering)._
----
+
 ## Tools
 some tools I love & use:
 - Python and its many libraries such as Django.
@@ -10,8 +10,8 @@ some tools I love & use:
 - [Arch Linux](https://archlinux.org/) as the main os and [nix](https://nixos.org/) package manager.
 - [kde plasma](https://kde.org/plasma-desktop/) as a desktop environment.
 - [NeoVim](https://neovim.io/) as the text editor and IDE.
----
-## Projects
+ 
+ ## Projects
 - **learn asap** : a website built as a collage course project, built in pure PHP and bootstrap, with MariaDB on a Linux host (LAMP stack).
 - **logic gate**s : built the baisec logic gates using sky water pdk in maigc and simulated with spice.
 - **IoT lights **: smart light built with esp8266.
