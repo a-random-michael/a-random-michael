@@ -13,7 +13,7 @@ some tools I love & use:
 - [NeoVim](https://neovim.io/) as the text editor and IDE.
  
 ## Projects
-- **learn asap** : a website built as a collage course project, built in pure PHP and bootstrap, with MariaDB on a Linux host (LAMP stack).
+- [**learn asap**](https://github.com/a-random-michael/learn-asap) : a website built as a collage course project, built in pure PHP and bootstrap, with MariaDB on a Linux host (LAMP stack).
 - **logic gates VLSI design** : built the basic logic gates using sky water pdk in maigc and simulated with spice.
 - **IoT lights**: smart light built with esp8266.
 - **RISC-V core** : built a simple RISC-V core using TL-verilog on MakerChip platform.
