@@ -4,7 +4,7 @@ I'm Michael, a computer and electronics enthusiast, with experiences ranging fro
  _Bachelor’s degree in Information And Communication Technology Engineering, (Computer and Electronic System engineering)._
 
 ## Currently learning ✏️
-- front-end development with nextjs with previous experience in HTML, CSS and JavaScript.
+- front-end development with nextjs on top of previous experience in HTML, CSS and JavaScript.
 
 ## Currently working on ✨
 - chiselStarter: simple bash script to initiate chisel projects.
