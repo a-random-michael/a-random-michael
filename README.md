@@ -13,8 +13,8 @@ I'm Michael, a computer and electronics enthusiast, with experiences ranging fro
 
 ## Previous projects 🎈
 - [**learn asap**](https://github.com/a-random-michael/learn-asap) : a website built as a collage course project, built in pure PHP and BootStrap, with MariaDB on a Linux host (LAMP stack).
-- **logic gates VLSI design** : built the basic logic gates using _sky water pdk_ in _maigc_ and simulated with _spice_.
-- **IoT lights**: smart light built with esp8266.
+- [**logic gates VLSI design**](https://github.com/a-random-michael/VLSI-gates) : built the basic logic gates using _sky water pdk_ in _maigc_ and simulated with _spice_.
+- **IoT lights** : smart light built with esp8266.
 - **RISC-V core** : built a simple RISC-V core using _TL-verilog_ on _MakerChip_ platform.
 - **RISC-V SoC** : using pre-built component, generated a RISC-V SoC in _chipyard_ using chisel language (scala).
 
